@@ -2,7 +2,9 @@
 MLP on MNIST Fashion with TSNE, PCA, and SHAP
 
 Jane Adams
+
 CS 7295 Visualization for Machine Learning
+
 Prof. Enrico Bertini, Fall 2022
 
 ## Dataset
