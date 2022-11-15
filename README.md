@@ -24,7 +24,7 @@ If I were to develop a model like this, and making that distinction was importan
 
 ![Zoomed in t-SNE projection showing highlighted clusters of bags (in an earlier t-SNE not screenshotted, these groups were actually in completely opposite locations from one another in embedding space)](https://raw.githubusercontent.com/janeadams/fashion_model_analysis/main/img/zoom_bags.png)
 
-![Hovering over a shoulder vs clutch bag](https://raw.githubusercontent.com/janeadams/fashion_model_analysis/main/img/zoom_bags2.png
+![Hovering over a shoulder vs clutch bag](https://raw.githubusercontent.com/janeadams/fashion_model_analysis/main/img/zoom_bags2.png)
 
 ## Error analysis
 
