@@ -9,7 +9,7 @@ Prof. Enrico Bertini, Fall 2022
 
 ## Dataset
 
-The dataset I chose was Fashion MNIST from Kaggle, by Zaladano Research. It’s structured very similarly to MNIST, in that it has 60k images that are 28x28 pixels in grayscale and there are 10 different class labels. The labels are: 0: T-shirt/top, 1: Trouser, 2: Pullover, 3: Dress, 4: Coat, 5: Sandal, 6: Shirt, 7: Sneaker, 8: Bag, 9: Ankle boot. For the purposes of this assignment, I made the dataset smaller, choosing to only sample 5,000 images. Here are some examples:
+The dataset I chose was ![Fashion MNIST from Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist), by Zaladano Research. It’s structured very similarly to MNIST, in that it has 60k images that are 28x28 pixels in grayscale and there are 10 different class labels. The labels are: 0: T-shirt/top, 1: Trouser, 2: Pullover, 3: Dress, 4: Coat, 5: Sandal, 6: Shirt, 7: Sneaker, 8: Bag, 9: Ankle boot. For the purposes of this assignment, I made the dataset smaller, choosing to only sample 5,000 images. Here are some examples:
 
 ![Examples of images in the dataset](https://raw.githubusercontent.com/janeadams/fashion_model_analysis/main/img/examples.png)
 
